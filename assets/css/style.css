@@ -207,7 +207,7 @@ h6 {
     white-space: nowrap;
 }
 .buy-tickets:hover {
-    background: none;
+    background: #870077;
     color: #fff;
 }
 .buy-tickets:focus {
@@ -622,7 +622,7 @@ h6 {
 # About Section
 --------------------------------------------------------------*/
 #about {
-    background: url("../img/about-bg.jpg");
+    background: url("https://images.unsplash.com/photo-1628818144466-856f7d477125?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80");
     background-size: cover;
     overflow: hidden;
     position: relative;
